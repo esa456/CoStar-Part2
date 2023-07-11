@@ -13,7 +13,3 @@ To deploy and install the dependencies to this project run _pip install -r requi
 
 To run it (please ensure you are in the directory of this project) _python task2.py_
 
-# Please Note
-A second file is available in this repository that includes functionality to allow for the scraping of demographical data, unfortunately I was not able to run integration tests on this piece of code and so was not able to include it in my final solution. If you are interested you can use the following command to run it below. (As an integration test was not completed, it may run with errors).
-
-To run it (please ensure you are in the directory of this project) _python task2-withdem.py_
