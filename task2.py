@@ -150,7 +150,7 @@ def individual_page(results):
     # Instantiate browser
     browser = emulate_browser()
 
-    counter = 0
+    #counter = 0
     # Loop through results
     for result in results:
 
@@ -240,10 +240,6 @@ def individual_page(results):
 
             # Move to next element
             continue
-
-        print(counter)
-        print("\n\n")
-        counter += 1
 
     # Close instance
     browser.close()
